@@ -1,9 +1,7 @@
-### Hey, I'm Mustafa Saraoglu 🙋‍♂️  
-**Postdoctoral Researcher** at the **Institute of Automation (IfA)**, **TU Dresden** 👨‍🏫  
+### Hey, I'm Mustafa Saraoğlu 🦉  
+👨‍🏫 **Postdoctoral Researcher** at the **Institute of Automation (IfA)**, **TU Dresden**  
 
-**PhD** in **Control & Automation** 🎓
-
-Dissertation: ["On Safety Assessment of Automated Driving Systems Using Simulation-based Testing and Formal Methods"](https://tud.qucosa.de/landing-page/?tx_dlf%5bid%5d=https%3A%2F%2Ftud.qucosa.de%2Fapi%2Fqucosa%253A91684%2Fmets)
+🎓 **PhD** in **Control & Automation**, Dissertation: ["On Safety Assessment of Automated Driving Systems Using Simulation-based Testing and Formal Methods"](https://tud.qucosa.de/landing-page/?tx_dlf%5bid%5d=https%3A%2F%2Ftud.qucosa.de%2Fapi%2Fqucosa%253A91684%2Fmets)
 
 ---
 
@@ -15,11 +13,6 @@ Dissertation: ["On Safety Assessment of Automated Driving Systems Using Simulati
 ---
 
 ### 🌟 Personal Interests
-Outside of research, I enjoy:  
 - **Chess** ♟️ (Peak online bullet rating: **2515**)  
 - **Fencing (Épée)** 🤺  
 - **Bouldering** 🧗, **Hiking** 🌄, and **Swimming** 🏊  
-
----
-
-Feel free to explore my projects!
