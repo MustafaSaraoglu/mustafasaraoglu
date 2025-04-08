@@ -13,6 +13,6 @@
 ---
 
 ### 🌟 Personal Interests
-- **Chess** ♟️ (Peak online bullet rating: **2515**)  
+- **Chess** ♟️ (Peak online bullet rating: **2540**)  
 - **Fencing (Épée)** 🤺  
 - **Bouldering** 🧗, **Hiking** 🌄, and **Swimming** 🏊  
